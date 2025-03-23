@@ -39,3 +39,19 @@
 
 - May 19 - 21 mandatory participation for the AWS first preschool in Vienna in order to be accepted into the AWS  first incubator program.
 - Acceptance into the program as of August 2025.
+
+## Decision criteria
+
+- innovation potential 
+- market potential 
+- Business potential
+- feasibility
+- Entrepreneurial potential of the funding applicants
+- socio-political relevance
+
+## 4 min Video 
+
+- who is behind the idea, and what are you strength
+- what skills and abilities are covered by the project member
+- which idea should be developed 
+- why do you want to participate in the AWS, and how can you benefit from it
