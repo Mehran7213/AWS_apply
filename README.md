@@ -1,15 +1,11 @@
 # AWS
 
-![AWS](AWSlogo)
-
 [AWS website](https://www.aws.at/en/)
-
-
 
 ## Deadlines
 
 * first call: Until 3rd April 2025
-* approval : 1.5 months after the application deadline
+* approval: 1.5 months after the application deadline
 
 ## Requirements:
 
@@ -29,7 +25,7 @@
     - have **not been founded more than 6 months**
     - ternover generated **not** exceed EUR 10000 net.
 
-**it is possible to switch from modul A to modul B during of the program**
+**it is possible to switch from module A to module B during of the program**
 
 ## coaching and cost
 
@@ -37,10 +33,9 @@
 
 - **personal cost:** up to 7200 euros per project member (_600 EUR per project member per month_) monthly at the end of the month 
 
-- **investment cost:** up to 30000 EUR per project(project, travel and rental costs) in 2 tranches (_80 % at the beginning and 20 % at the end of the program_)
+- **investment cost:** up to 30000 EUR per project(project, travel, and rental costs) in 2 tranches (_80 % at the beginning and 20 % at the end of the program_)
 
 ## timeline
 
-- may 19 - 21 mandatory participation for the AWS first preschool in Vienna in order to be accepted into the AWS  first incubator program.
-- Acceptance into program as of August 2025.
-
+- May 19 - 21 mandatory participation for the AWS first preschool in Vienna in order to be accepted into the AWS  first incubator program.
+- Acceptance into the program as of August 2025.
