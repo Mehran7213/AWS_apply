@@ -1,10 +1,6 @@
 # AWS
 
-![AWS](AWSlogo)
-
 [AWS website](https://www.aws.at/en/)
-
-
 
 ## Deadlines
 
